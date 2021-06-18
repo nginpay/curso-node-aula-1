@@ -18,7 +18,8 @@ Rodamos nossa aplicação
 4. Visual Studio Code instalado
 5. MySQL instalado
 
-## 1. Vamos criar a aplicação em Node/Express. 
+## AULA 1. 
+## Vamos criar a aplicação em Node/Express
 
 ## Instalar o NODE.JS
 ```bash
