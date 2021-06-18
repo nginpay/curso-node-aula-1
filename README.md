@@ -4,7 +4,8 @@ Partiremos do absoluto zero.
 ```bash
 Nesta aula criamos nosso projeto.
 Entendemos como funciona uma aplicação node.js/express
-Vimos o roteamento do Express e as formas de response (resposta) dos dados das rotas, que podem ser: json ou html, por exemplo.
+Vimos o roteamento do Express e as formas de response (resposta) dos dados das rotas, 
+que podem ser: json ou html, por exemplo.
 Entendemos, criamos e modelamos algumas views.
 Rodamos nossa aplicação
 ```
